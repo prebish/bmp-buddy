@@ -50,6 +50,9 @@ Enter filename of source image (must be .bmp): image.bmp
 ```
 
 ### Editing Options
+
+All thats left is to select one of the following options for editing the photo, or *save*, *open*, or *quit*.
+
 ```bash
 ==============================
 Select Operation:
