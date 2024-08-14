@@ -1,34 +1,31 @@
 # BMP Buddy
 
-Edit Bitmap Images with the BMP Buddy Python Program! 
+Edit Bitmap Images with the BMP Buddy Python Program! Modify color palettes, rotate, alter contrast and brightness + more.
 
 ## Table of Contents
 
-- [Installation & Setup](#installation--setup)
-    1. [Clone the Repository](#1-clone-the-repository)
-    2. [Compile the Program](#2-compile-the-program)
+- [Installation & Setup](#installation--setup)  
+    1. [Prerequisites](#0-prerequisites)  
+    2. [Clone the Repository](#1-clone-the-repository)
+    3. [Move to Program Directory](#2-move-to-program-directory)
 - [Usage](#usage)
-    - [Reading](#reading)
-        - [Output to Console](#the-output-will-be-displayed-in-the-console)
-        - [Output to File](#optionally-you-can-include-a-name-of-a-file-to-place-the-output)
-    - [Writing](#writing)
-        - [No Output File Specified](#the-output-will-be-placed-in-a-file-named-outputdat-by-default)
-        - [Output File Specified](#optionally-a-custom-output-file-name-can-be-included)
+    - [Program Startup](#program-startup)
+    - [Editing Options](#editing-options)
 - [License](#license)
 
 ## Installation & Setup
 
-### 0. Prerequisites
+### 1. Prerequisites
 Make sure you have the latest version of the Python installed.  
 You can download it from the [<u>Microsoft store</u>](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US).  
 Alternatively, you can install it from the [<u>official site</u>](https://www.python.org/downloads/).
 
-### 1. Clone the Repository
+### 2. Clone the Repository
 ```bash
 git clone https://github.com/prebish/bmp-buddy.git
 ```
 
-### 2. Move to Program Directory
+### 3. Move to Program Directory
 ```bash
 cd ./bmp-buddy
 ```
