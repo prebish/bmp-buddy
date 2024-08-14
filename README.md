@@ -19,8 +19,9 @@ Edit Bitmap Images with the BMP Buddy Python Program!
 ## Installation & Setup
 
 ### 0. Prerequisites
-Make sure you have the latest version of the Python installed. You can download it from the [<u>Microsoft store</u>](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US)  
-Alternatively, you can install it from the [<u>official site</u>](https://www.python.org/downloads/)
+Make sure you have the latest version of the Python installed.  
+You can download it from the [<u>Microsoft store</u>](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US).  
+Alternatively, you can install it from the [<u>official site</u>](https://www.python.org/downloads/).
 
 ### 1. Clone the Repository
 ```bash
