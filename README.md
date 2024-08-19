@@ -5,8 +5,8 @@ Edit Bitmap Images with the BMP Buddy Python Program! Modify color palettes, rot
 ## Table of Contents
 
 - [Installation & Setup](#installation--setup)  
-    1. [Clone the Repository](#2-clone-the-repository)
-    2. [Move to Program Directory](#3-move-to-program-directory)
+    1. [Clone the Repository](#1-clone-the-repository)
+    2. [Move to Program Directory](#2-move-to-program-directory)
 - [Usage](#usage)
     - [Program Startup](#program-startup)
     - [Editing Options](#editing-options)
